@@ -15,14 +15,14 @@
   [![sponsors][sponsors-badge]][sponsors-url]
   <br>
   <br>
-  <strong><a href="https://invite.switchblade.xyz/">CLICK HERE TO ADD SWITCHBLADE TO YOUR SERVER</a></strong>
+  <strong><a href="https://neurosis.pw/">CLICK HERE TO ADD Neurosis TO YOUR SERVER</a></strong>
 </div>
 
 ---
 
-<h2 align="center">Switchblade</h2>
+<h2 align="center">Neurosis</h2>
 
-Switchblade is a free and open source solution to your server managing problems, built from scratch with code organization and quality in mind. Our goal is to cover as many functionalities and niches as possible, while still maintaining high quality.
+Neurosis is a free and open source solution to your server managing problems, built from scratch with code organization and quality in mind. Our goal is to cover as many functionalities and niches as possible, while still maintaining high quality.
 
 <h3>Table of Contents</h3>
 
@@ -42,7 +42,7 @@ Switchblade is a free and open source solution to your server managing problems,
 
 <h2 align="center">Commands</h2>
 
-Switchblade has over 130 commands, and having to update a list here would be unproductive. Instead, we have a commands page on our website that pulls command metadata straight out of the running bot, so you always get the latest information. **[Check it out!](https://switchblade.xyz/commands)**
+Switchblade has over 130 commands, and having to update a list here would be unproductive. Instead, we have a commands page on our website that pulls command metadata straight out of the running bot, so you always get the latest information. **[Check it out!](https://neurosis.pw/commands)**
 
 <h2 align="center">Music</h2>
 
