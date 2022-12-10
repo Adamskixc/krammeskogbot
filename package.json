@@ -46,7 +46,7 @@
     "crowdin-without-vulnerability": "^1.0.0",
     "discord.js": "^11.4.2",
     "discord.js-lavalink": "^2.2.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "figlet": "^1.2.1",
     "fuse.js": "^3.4.6",
     "gifencoder": "^2.0.1",
